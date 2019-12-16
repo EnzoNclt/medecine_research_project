@@ -27,7 +27,12 @@ For Fish Users:
 ```
 
 ## Usage
-To use the find_diff.py script, type the following command:
+To compare two separates images and view the result of the comparison using the find_diff.py script, type the following command:
 ```
-    python find_diff_img.py -f first_image.jpg -s second_image.jpg
+    python find_diff_img.py -f path_to_first_image.jpg -s path_to_second_image.jpg
+```
+
+To compare one image with a whole folder, to make the SSIM coeficient, use the file_logic.py and type the following command:
+```
+    python file_logic.py -f path_to_folder -s path_to_image.jpg
 ```

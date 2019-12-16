@@ -1,0 +1,5 @@
+Images comparisondist/lungs/1.png,SSIM (Similarity)
+dist/lungs/4.png,0.732114792590097
+dist/lungs/1.png,1.0
+dist/lungs/3.png,0.6890993281088202
+dist/lungs/2.png,0.7240470352344499
